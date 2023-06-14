@@ -1,0 +1,13 @@
+{
+    "RepetitionTime": "3.48", 
+    "EchoTime": "0.05", 
+    "Instruction": "Think of nothing in particular, but do not fall asleep.", 
+    "MagneticFieldStrenth": "1.5", 
+    "FlipAngle": "90", 
+    "Sequence": "Echo Planar", 
+    "TaskDescription": "Resting State with no visual stimulus (eyes closed)", 
+    "TaskName": "rest", 
+    "Resolution": "3.8*3.8*5", 
+    "ManufacturesModelName": "Avanto ", 
+    "Manufacturer": "Siemens "
+}
